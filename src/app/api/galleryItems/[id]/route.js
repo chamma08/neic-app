@@ -5,14 +5,6 @@ import path from "path";
 import { writeFile, mkdir, unlink } from "fs/promises";
 import fs from "fs";
 
-export const config = {
-  api: {
-    bodyParser: {
-      sizeLimit: "10mb", // Increase as needed
-    },
-  },
-};
-
 
 // Update existing item
 export async function PUT(req, { params }) {
