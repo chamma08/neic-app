@@ -1,0 +1,55 @@
+{
+  "about": {
+    "page_name": "About Us",
+    "header_description": "Opening hours (Monday - Friday : 8.30AM - 4.15 PM)",
+    "about_us": {
+      "title": "About Us",
+      "description1": "One of the primary goals of the Central Environmental Authority (CEA) is to provide information and education to the public on protecting and improving the environment. To achieve this objective, the CEA established a library in 1984, which was renamed the National Environmental Information Centre (NEIC) in 1993. Since then, the NEIC has launched various information services and continually developed and strengthened its library resources. Serving as the national focal point for environmental information in Sri Lanka, the NEIC recognizes the critical need to enhance the country's capabilities for acquiring, processing, and disseminating environmental data, viewing this as a vital component of the national development process.",
+      "description2": ""
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Towards the advancement of knowledge through environmental information."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To fulfill the environmental information needs of users by providing quality, appropriate, comprehensive, and updated information sources."
+    },
+    "staff": {
+      "title": "NEIC Staff",
+      "member1": {
+        "name": "Mr. U.D.C. Jayalal",
+        "position": "Chairman",
+        "department": "Central Environmental Authority"
+      },
+      "member2": {
+        "name": "Mr. Hemantha Jayasinghe",
+        "position": "Director General",
+        "department": "Central Environmental Authority"
+      },
+      "member3": {
+        "name": "Mr. Sivakumar",
+        "position": "Deputy Director General (EEA)",
+        "department": "Central Environmental Authority"
+      },
+      "member4": {
+        "name": "Mrs. T.M.C. Hansamali Thennakoon",
+        "position": "Librarian",
+        "tel": "Tel: 011-2872278",
+        "ext": "Ext: 2295",
+        "email": "Email: hansamali@cea.lk"
+      },
+      "member5": {
+        "name": "Duminda Lakmal Gunathilaka",
+        "position": "Office aide",
+        "department": ""
+      },
+      "member6": {
+        "name": "D.N. Bandara",
+        "position": "Office aide",
+        "department": ""
+      }
+    },
+    "floor_plan": "Floor Plan"
+  }
+}

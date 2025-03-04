@@ -1,0 +1,51 @@
+{
+  "home": {
+    "carousel": {
+      "welcome": "Welcome!",
+      "header_text": "National Environmental Information Centre",
+      "description": "Towards the Advancement of Knowledge through Environmental Information.",
+      "button1": "Find a Book",
+      "button2": "E-Library",
+      "button3": "CEA- Circulars"
+    },
+    "about_us": {
+      "title": "About Us",
+      "description": "In 1984, the CEA established a dedicated library to serve this purpose, and in 1993, this library evolved into the National Environmental Information Centre. This transformation marked a significant expansion in their efforts, introducing a range of information services designed to better support and educate the community. Over the years, the Centre has continuously developed and strengthened its resources, aiming to provide comprehensive, accessible information on environmental issues and promote a culture of sustainability."
+    },
+    "award": {
+      "title": "Green Library Award",
+      "description_part1": "In 2020, the National Environmental Information Centre (NEIC) was honored as the runner-up for the prestigious 'Green Library Award' by the International Federation of Library Associations (IFLA). This award is facilitated by ENSULIB (Environment, Sustainability, and Libraries), a special interest group within IFLA. The competition, held for the fifth consecutive year, saw participation from over 50 countries worldwide, highlighting the global commitment to sustainable library practices. The NEIC's recognition underscores its significant contributions to environmental education and sustainability, marking a proud achievement on the international stage.",
+      "description_part2": ""
+    },
+    "tour": {
+      "title": "Library Tour"
+    },
+    "resources": {
+      "title": "Online Resources",
+      "resource1": "Environmental Research Support",
+      "resource2": "International Organizations",
+      "resource3": "Envt. Policies",
+      "resource4": "The National Red List",
+      "resource5": "Laboratory Services",
+      "resource6": "Air/ Water Quality Index"
+    },
+    "arrivals": {
+      "title": "New Arrivals"
+    },
+    "links": {
+      "title": "Key Links",
+      "link1": "Ministry of Environment",
+      "link2": "Central Environmental Authority",
+      "link3": "Coast Conservation & Coastal Resource",
+      "link4": "National Gem & Jewellery Authority",
+      "link5": "Department of Wildlife Conservation",
+      "link6": "Geological Survey and Mines Bureau",
+      "link7": "Zoological Department",
+      "link8": "Forest Department",
+      "link9": "Marine Environment Protection",
+      "link10": "National Aquatic Resources",
+      "link11": "Urban Development Authority",
+      "link12": "Waste Management Authority"
+    }
+  }
+}
