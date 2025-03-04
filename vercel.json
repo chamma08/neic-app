@@ -1,0 +1,9 @@
+{
+    "functions": {
+      "api/galleryItems/[id]": {
+        "maxDuration": 60,
+        "memory": 1024
+      }
+    }
+  }
+  
